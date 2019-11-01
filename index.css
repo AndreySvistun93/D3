@@ -1,0 +1,27 @@
+.node {
+    stroke: #000;
+    stroke-width: 1.5px;
+    fill: white;
+    cursor: pointer;
+  }
+.node:hover {
+    fill: bisque;
+
+  }
+.link {
+    stroke: #999;
+    stroke-width: 1.5px;
+  }
+.text{
+   font-size: 10pt;
+   background-color: white;
+
+   font-size: 10pt;
+  }
+.infomationSection{
+  background-color: white;
+  padding:10px 20px;
+}
+.svg{
+    background-color: darkslategrey;
+  }
